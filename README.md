@@ -2,7 +2,8 @@
 #  leia-me-modelo
 <h1 align="center">:file_cabinet: Exemplo de README.md</h1>
 
-## : memorando : Descrição 
+## ⌨Descrição  
+
 Escreva uma descrição do seu projeto
 
 ## 🗃 Funcionalidades 
